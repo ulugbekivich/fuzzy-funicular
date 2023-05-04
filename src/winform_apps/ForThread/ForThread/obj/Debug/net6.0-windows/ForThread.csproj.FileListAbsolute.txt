@@ -1,0 +1,17 @@
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\bin\Debug\net6.0-windows\ForThread.exe
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\bin\Debug\net6.0-windows\ForThread.deps.json
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\bin\Debug\net6.0-windows\ForThread.runtimeconfig.json
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\bin\Debug\net6.0-windows\ForThread.dll
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\bin\Debug\net6.0-windows\ForThread.pdb
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\obj\Debug\net6.0-windows\ForThread.csproj.AssemblyReference.cache
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\obj\Debug\net6.0-windows\ForThread.Form1.resources
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\obj\Debug\net6.0-windows\ForThread.csproj.GenerateResource.cache
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\obj\Debug\net6.0-windows\ForThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\obj\Debug\net6.0-windows\ForThread.AssemblyInfoInputs.cache
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\obj\Debug\net6.0-windows\ForThread.AssemblyInfo.cs
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\obj\Debug\net6.0-windows\ForThread.csproj.CoreCompileInputs.cache
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\obj\Debug\net6.0-windows\ForThread.dll
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\obj\Debug\net6.0-windows\refint\ForThread.dll
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\obj\Debug\net6.0-windows\ForThread.pdb
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\obj\Debug\net6.0-windows\ForThread.genruntimeconfig.cache
+C:\Users\A'zamjon\Desktop\ForThread\ForThread\obj\Debug\net6.0-windows\ref\ForThread.dll
