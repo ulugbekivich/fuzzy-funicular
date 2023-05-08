@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5budj/RKMP67ezs+ztbc4Y9N2OZDuNskwK9NgqSm1R+Y7z1pUtoq737qAY8p6jp+fkvsCunlvdUCd/xKs4+KoQ==",
+  "dgSpecHash": "if36UQkJOYJHhdKDfg5OpCZg78llXLbgPhYMfzTrfPDP8P0Jo9zJRmUbu/0ed80AI/Q1OIUY/7kRSW+kVQBebA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A'zamjon\\Desktop\\CurrencyApp\\CurrencyApp\\CurrencyApp.csproj",
+  "projectFilePath": "C:\\Users\\A'zamjon\\Desktop\\fuzzy-funicular\\src\\winform_apps\\CurrencyApp\\CurrencyApp\\CurrencyApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A'zamjon\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\A'zamjon\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
