@@ -14,10 +14,13 @@
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props" Condition="Exists('$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props')" />
     <Import Project="$(NuGetPackageRoot)pdfiumviewer.native.x86_64.v8-xfa\2018.4.8.256\Build\PdfiumViewer.Native.x86_64.v8-xfa.props" Condition="Exists('$(NuGetPackageRoot)pdfiumviewer.native.x86_64.v8-xfa\2018.4.8.256\Build\PdfiumViewer.Native.x86_64.v8-xfa.props')" />
     <Import Project="$(NuGetPackageRoot)pdfiumviewer.native.x86.v8-xfa\2018.4.8.256\Build\PdfiumViewer.Native.x86.v8-xfa.props" Condition="Exists('$(NuGetPackageRoot)pdfiumviewer.native.x86.v8-xfa\2018.4.8.256\Build\PdfiumViewer.Native.x86.v8-xfa.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgEntityFramework Condition=" '$(PkgEntityFramework)' == '' ">C:\Users\A'zamjon\.nuget\packages\entityframework\6.4.4</PkgEntityFramework>
+    <PkgSystem_Data_SQLite_EF6 Condition=" '$(PkgSystem_Data_SQLite_EF6)' == '' ">C:\Users\A'zamjon\.nuget\packages\system.data.sqlite.ef6\1.0.117</PkgSystem_Data_SQLite_EF6>
     <PkgPdfiumViewer Condition=" '$(PkgPdfiumViewer)' == '' ">C:\Users\A'zamjon\.nuget\packages\pdfiumviewer\2.13.0</PkgPdfiumViewer>
   </PropertyGroup>
 </Project>
